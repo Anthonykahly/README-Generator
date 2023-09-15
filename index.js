@@ -61,14 +61,14 @@ const questions = [
 
     {
         type: 'confirm',
-        name: 'confirmLicenses',
+        name: 'confirmLicense',
         message: 'Would you like to include a license?',
         default: false
     },
 
     {
         type: 'list',
-        name: 'licenses',
+        name: 'license',
         message: 'What license would you like to include?',
         choices: ['MIT', 'GPL', 'CC--0'],
     },

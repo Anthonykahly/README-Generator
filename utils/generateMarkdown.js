@@ -55,13 +55,11 @@ function generateMarkdown(userInput) {
   ${userInput.installation}
   ## Usage
   ${userInput.usage}
-  ## License
   ${renderLicenseSection(userInput.license)}
   ## Tests
   ${userInput.tests}
   ## Contributors
-  ${userInput.Contributors}
-
+  ${userInput.contributors}
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/${userInput.github}  
