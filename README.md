@@ -1,5 +1,4 @@
 # README Generator
-
   [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://lbesson.mit-license.org/)
 
   # Table of Contents
@@ -13,6 +12,7 @@
 
   ## Description
   This project was created using Node.JS to create a command line application that generates a professional level README.md file by utilizing the users input.
+  ![VScode page showing the README that was generated](./utils/READMEpicture.png) 
   ## Installation
   Node.JS is required to have installed on your PC in order to run this app. Run "npm init" as well as installing the "inquirer" package using the "npm install inquirer"command.
   ## Usage
